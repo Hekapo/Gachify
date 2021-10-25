@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549306337715",
+    "project_id": "gachify",
+    "storage_bucket": "gachify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549306337715:android:d8993bea6efc817c70a3c6",
+        "android_client_info": {
+          "package_name": "com.example.gachify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549306337715-rgq8j43q3hsr2er2gfia6p6unh0is881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCELBSAF8rTaJ-Tj8_hCDR2eJ4t-GK2gLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549306337715-rgq8j43q3hsr2er2gfia6p6unh0is881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
